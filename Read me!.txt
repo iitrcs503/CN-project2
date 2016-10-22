@@ -1,0 +1,2 @@
+This project needs Visual Studio (2013 preferably) tool to run.
+Thanks.
